@@ -1,2 +1,2 @@
-THIS WEBSITE/REPSITORY IS HEAVELY BACED ON 3KH0 BUT I AM DOING BY BEST TO MAKE IT MY OWN
-link is https://medrokian.github.io/index.html
+THIS WEBSITE/REPSITORY IS HEAVELY BACED ON my friend's site. he sent me the code and said I could use it but give him credit where it is due 
+the link to his website is https://medrokian.github.io/
